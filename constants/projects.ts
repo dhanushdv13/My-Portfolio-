@@ -40,7 +40,6 @@ export const projects = [
     ],
     feedback: true,
     links: {
-      live: "#",
       github: "https://github.com/dhanushdv13/end-to-end-AGRICULTURE-HUB",
     },
   },
@@ -83,7 +82,6 @@ export const projects = [
     ],
     feedback: true,
     links: {
-      live: "#",
       github: "https://github.com/dhanushdv13/movie-recommender-ML-project-",
     },
   },
@@ -124,7 +122,6 @@ export const projects = [
     ],
     feedback: true,
     links: {
-      live: "#",
       github: "https://github.com/dhanushdv13/simple-Chat-GPT",
     },
   },
