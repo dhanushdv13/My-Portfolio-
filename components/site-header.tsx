@@ -68,7 +68,7 @@ export function SiteHeader() {
                 <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-green-400 opacity-75"></span>
                 <span className="relative inline-flex h-2 w-2 rounded-full bg-green-500"></span>
               </div>
-              <span className="text-xs font-medium tabular-nums tracking-tight text-foreground">
+              <span suppressHydrationWarning className="text-xs font-medium tabular-nums tracking-tight text-foreground">
                 {formattedTime}
               </span>
             </div>
@@ -84,9 +84,8 @@ export function SiteHeader() {
                 title={playing ? "Pause Music" : "Play Music"}
               >
                 <FiMusic
-                  className={`h-[18px] w-[18px] transition-colors ${
-                    playing ? "text-pink-500" : "text-muted-foreground"
-                  }`}
+                  className={`h-[18px] w-[18px] transition-colors ${playing ? "text-pink-500" : "text-muted-foreground"
+                    }`}
                 />
               </Button>
 
@@ -109,9 +108,9 @@ export function SiteHeader() {
                 className="h-9 w-9 rounded-full transition-all hover:scale-105 hover:bg-muted"
                 asChild
               >
-                <Link 
-                  href={siteConfig.links.github} 
-                  target="_blank" 
+                <Link
+                  href={siteConfig.links.github}
+                  target="_blank"
                   rel="noreferrer"
                 >
                   <Icons.gitHub className="h-[18px] w-[18px]" />

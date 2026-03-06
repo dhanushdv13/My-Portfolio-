@@ -30,11 +30,6 @@ export const docsConfig = {
           items: [],
         },
         {
-          title: 'Experience',
-          href: '/experience',
-          items: [],
-        },
-        {
           title: 'Education',
           href: '/education',
           items: [],
@@ -42,11 +37,6 @@ export const docsConfig = {
         {
           title: 'Contact',
           href: '/contact',
-          items: [],
-        },
-        {
-          title: 'Stats',
-          href: '/stats',
           items: [],
         },
       ],

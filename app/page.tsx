@@ -7,7 +7,7 @@ import {
 import Pager from '@/components/pager';
 import { Button } from '@/components/ui/button';
 import { siteConfig } from '@/config/site';
-import { ExternalLink, Mail } from 'lucide-react';
+import { Mail } from 'lucide-react';
 import Link from 'next/link';
 
 const IntroductionPage = async () => {
@@ -22,12 +22,6 @@ const IntroductionPage = async () => {
           I am a passionate Artificial Intelligence and Machine Learning student with a strong interest in building intelligent systems and data-driven applications. My journey in technology began with a curiosity to understand how machines can learn from data and solve real-world problems. Over time, this curiosity evolved into a passion for developing machine learning models, AI-powered applications, and scalable solutions. I enjoy exploring areas such as machine learning, deep learning, and large language models, while also building practical projects that combine AI with modern software technologies to create impactful and user-centric solutions.
         </PageHeaderDescription>
         <PageActions>
-          <Button asChild size="sm" className="rounded-md">
-            <Link href={siteConfig.links.resume} target="_blank">
-              Get Resume
-              <ExternalLink className="size-3" strokeWidth={2} />
-            </Link>
-          </Button>
           <Button asChild size="sm" variant="ghost" className="rounded-md">
             <Link href={siteConfig.links.email}>
               <Mail className="size-4" />

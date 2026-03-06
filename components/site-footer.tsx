@@ -34,15 +34,6 @@ export async function SiteFooter() {
               className="font-medium transition-colors text-primary hover:text-primary/80"
             >
               Dhanush DV
-            </Link>{" "}
-            · Source code available on{" "}
-            <Link
-              href="https://github.com/dhanushdv13"
-              target="_blank"
-              rel="noreferrer"
-              className="font-medium transition-colors text-primary hover:text-primary/80"
-            >
-              GitHub
             </Link>
           </div>
         </div>

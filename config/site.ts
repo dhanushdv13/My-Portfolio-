@@ -25,7 +25,7 @@ export const siteConfig = {
     github: 'https://github.com/dhanushdv13',
     githubProfile: 'https://github.com/dhanushdv13',
     linkedin: 'https://www.linkedin.com/in/dhanushdv/',
-    resume: 'https://drive.google.com/file/d/your-resume-id/view', // Add your resume link here
+    resume: 'https://drive.google.com/file/d/1xYDLMsGrarjRvaJ5pvg1yDUtm174jKfv/view?usp=sharing',
     email: 'mailto:dhanushdv05@gmail.com',
     githubUsername: 'dhanushdv13',
   },
