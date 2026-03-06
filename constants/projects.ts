@@ -1,4 +1,20 @@
-export const projects = [
+type Project = {
+  title: string;
+  slug: string;
+  tagline: string;
+  overview: string;
+  features?: string[];
+  techStack?: string[];
+  challenges?: string[];
+  learnings?: string[];
+  feedback: boolean;
+  links: {
+    github: string;
+    live?: string;
+  };
+};
+
+export const projects: Project[] = [
   {
     title: "Agri Hub | End-to-End Agriculture Management Platform",
     slug: "agri-hub",
