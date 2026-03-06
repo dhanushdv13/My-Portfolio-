@@ -1,10 +1,10 @@
 export const siteConfig = {
-  name: 'aadi.is-dev',
-  url: 'https://aadi.is-a.dev',
-  description: 'Portfolio of Aditya Domle, Full-Stack Web Developer & DevOps enthusiast.',
+  name: 'Dhanush DV',
+  url: 'https://dhanushdv.is-a.dev',
+  description: 'Portfolio of Dhanush DV, Full-Stack Web Developer & DevOps enthusiast.',
   keywords: [
-    'Aditya Domle',
-    'aditya domle',
+    'Dhanush DV',
+    'dhanush dv',
     'aditya.com',
     'Aditya Domle Portfolio',
     'Full Stack Developer',
@@ -21,15 +21,13 @@ export const siteConfig = {
     'Aditya Domle Resume',
   ],
   links: {
-    shadcn: 'https://ui.shadcn.com/',
-    telegram: 'https://t.me/nexjsx',
     twitter: 'https://x.com/env_aditya',
-    github: 'https://github.com/adityadomle',
-    githubProfile: 'https://github.com/adityadomle',
-    linkedin: 'https://www.linkedin.com/in/adityadomle/',
+    github: 'https://github.com/dhanushdv13',
+    githubProfile: 'https://github.com/dhanushdv13',
+    linkedin: 'https://www.linkedin.com/in/dhanushdv/',
     resume: 'https://drive.google.com/file/d/your-resume-id/view', // Add your resume link here
-    email: 'mailto:adityadomle14@gmail.com',
-    githubUsername: 'adityadomle',
+    email: 'mailto:dhanushdv05@gmail.com',
+    githubUsername: 'dhanushdv13',
   },
 };
 

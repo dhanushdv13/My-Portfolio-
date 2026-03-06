@@ -3,18 +3,18 @@ import { TimelineViewerData } from '@/types/TimelineViewer.types';
 export const education: TimelineViewerData[] = [
   {
     title:
-      'Bachelor of Computer Application · GH Raisoni College of Engineering and Management · Nagpur, India',
-    date: 'Aug 2023 – June 2026 (Expected)',
-    description: `Pursuing BCA with a focus on programming, web development, and software engineering. Current CGPA: 8.40.`,
+      'Bachelor of Engineering in Computer Science and Engineerig (AI & ML) · PES College of Engineering  Mandya, Karnataka, India',
+    date: 'dec 2022 – may 2026 (Expected)',
+    description: `Pursuing BE with a focus on programming, web development, AI & ML and software engineering. Current CGPA: 6.4`,
   },
   {
-    title: 'Higher Secondary Education · NPW Science College · Lakhani',
-    date: 'July 2021 – May 2023',
-    description: `Completed 12th in Information Technology. Overall: 70%, IT: 95%.`,
+    title: 'Higher Secondary Education · Mandavya Excellence Science College · Mandya, Karnataka, India',
+    date: 'July 2020 – May 2022',
+    description: `Completed 12th in Information Technology. Overall: 76%,`,
   },
   {
-    title: 'Secondary Education · Shivaji Vidyalaya Seloti/Manegaon · SEE',
-    date: 'Apr 2012 – Mar 2021',
-    description: `Completed 10th grade with 82%. Assisted peers in learning computer skills through hands-on lab sessions.`,
+    title: 'Secondary Education · Chinmaya Vidyalaya · Mandya, Karnataka, India',
+    date: 'Apr 2010 – Mar 2020',
+    description: `Completed 10th grade with 78%.`,
   },
 ];

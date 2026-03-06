@@ -14,16 +14,12 @@ const IntroductionPage = async () => {
   return (
     <>
       <PageHeader>
-        <PageHeaderHeading>Aditya Domle</PageHeaderHeading>
+        <PageHeaderHeading>Dhanush DV</PageHeaderHeading>
         <PageHeaderHeading className="mt-2 text-muted-foreground">
           A coder by day, problem-solver by night!
         </PageHeaderHeading>
         <PageHeaderDescription>
-          I am a dedicated Software Engineer specializing in full-stack
-          application development. I enjoy crafting responsive web solutions
-          using modern technologies like Next.js, React, Tailwind CSS, Node.js,
-          Express, and MongoDB, while also applying DevOps practices, continuously
-          aiming to deliver high-quality, comprehensive, user-centric software solutions.
+          I am a passionate Artificial Intelligence and Machine Learning student with a strong interest in building intelligent systems and data-driven applications. My journey in technology began with a curiosity to understand how machines can learn from data and solve real-world problems. Over time, this curiosity evolved into a passion for developing machine learning models, AI-powered applications, and scalable solutions. I enjoy exploring areas such as machine learning, deep learning, and large language models, while also building practical projects that combine AI with modern software technologies to create impactful and user-centric solutions.
         </PageHeaderDescription>
         <PageActions>
           <Button asChild size="sm" className="rounded-md">
